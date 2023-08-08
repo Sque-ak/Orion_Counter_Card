@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="none_avatar">
+    <file>avatar_none.jpg</file>
+  </qresource>
+  <qresource prefix="background_header">
+    <file>Background-header-forest.jpg</file>
+  </qresource>
+  <qresource prefix="proxy_step">
+    <file>proxy step.png</file>
+  </qresource>
+</RCC>
